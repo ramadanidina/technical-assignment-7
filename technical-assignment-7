@@ -1,4 +1,4 @@
-mkdir AchmadAlvin 
+mkdir dinaramadani
 cd dinaramadani
 mkdir sekolah
 mkdir kerja
@@ -13,7 +13,7 @@ touch portofolio.txt
 nano portofolio.txt
  Saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah
  - Pt KAI
- -
+ - Samsung Indonesia
  -
 (ctrl+X, Y, Enter)
 cd ..
@@ -22,8 +22,8 @@ touch cv.txt
 nano cv.txt
 Salam,
 Perkenalkan namaku Dina Ainur Ramadani, saya memiliki kegemaran
--pramuka
--Menyendiri
+-Badminton
+-Denger musik
 -Baca novel
 (ctrl+X, Y,Enter)
 cd ..
